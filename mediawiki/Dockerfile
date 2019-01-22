@@ -1,1 +1,1 @@
-
+FROM mediawiki:latest
