@@ -2,4 +2,5 @@ FROM mediawiki:1.31
 # Extensions build for 1.31
 ADD extensions/BreadCrumbs2-REL1_31-6006018.tar.gz /var/www/html/extensions
 ADD extensions/CategoryTree-REL1_31-c24e5ed.tar.gz /var/www/html/extensions
+ADD extensions/MobileApp-REL1_31-8dc51f1.tar.gz /var/www/html/extensions
 ADD extensions/VisualEditor-REL1_31-6854ea0.tar.gz /var/www/html/extensions
