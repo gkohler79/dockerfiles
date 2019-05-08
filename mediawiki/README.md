@@ -1,4 +1,4 @@
-#mediawiki
+# mediawiki
 
 A custom docker build of mediawiki.
 
