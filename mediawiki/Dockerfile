@@ -1,6 +1,5 @@
-FROM mediawiki:1.31
-# Extensions build for 1.31
-ADD extensions/BreadCrumbs2-REL1_31-6006018.tar.gz /var/www/html/extensions
-ADD extensions/CategoryTree-REL1_31-c24e5ed.tar.gz /var/www/html/extensions
-ADD extensions/RSS-REL1_31-288e203.tar.gz /var/www/html/extensions
-ADD extensions/VisualEditor-REL1_31-6854ea0.tar.gz /var/www/html/extensions
+FROM mediawiki:1.32.1
+# Extensions build for 1.32
+ADD extensions/BBreadCrumbs2-REL1_32-9f6d75c.tar.gz /var/www/html/extensions
+ADD extensions/RSS-REL1_32-4a78159.tar.gz /var/www/html/extensions
+ADD extensions/VisualEditor-REL1_32-e82e120.tar.gz /var/www/html/extensions
