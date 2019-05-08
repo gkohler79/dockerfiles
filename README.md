@@ -1,4 +1,3 @@
-# dockerfile
+# dockerfiles
 
-Lastest version of mediawiki built with the following extensions:
-- Display Title
+A build of my custom dockerfiles.
